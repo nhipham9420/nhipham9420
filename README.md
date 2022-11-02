@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhipham9420&label=Profile%20views&color=0e75b6&style=flat" alt="nhipham9420" /> </p>
 
-📫 Connect with me: **nhipham9420@gmail.com**
+📫 Contact me: **nhipham9420@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"></p>
