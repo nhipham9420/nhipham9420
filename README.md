@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Nhi Pham</h1>
 
-📫 Contact me: **nhipham9420@gmail.com**
+//📫 Contact me: **nhipham9420@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"></p>
