@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nhi Pham</h1>
 
-//📫 Contact me: **nhipham9420@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhipham9420&show_icons=true&locale=en&layout=compact" alt="nhipham9420" /></p>
