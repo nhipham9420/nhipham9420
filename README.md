@@ -1,7 +1,4 @@
 <h1 align="left">Hi 👋, I'm Nhi Pham</h1>
-<h3 align="left">Fresher .NET Software Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhipham9420&label=Profile%20views&color=0e75b6&style=flat" alt="nhipham9420" /> </p>
 
 📫 Contact me: **nhipham9420@gmail.com**
 
